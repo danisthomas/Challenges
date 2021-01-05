@@ -19,6 +19,7 @@ namespace Week_4_Challenges
             cat.Species= "Feline";
             cat.Nocturnal = true;
             cat.Owner = "Daniele Thomas";
+            cat.Age = 11;
 
         }
     }

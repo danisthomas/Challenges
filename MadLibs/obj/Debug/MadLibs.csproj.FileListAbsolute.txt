@@ -1,0 +1,7 @@
+D:\ElevenFiftyProjects\DotNetProjects\Challenges\MadLibs\bin\Debug\MadLibs.exe.config
+D:\ElevenFiftyProjects\DotNetProjects\Challenges\MadLibs\bin\Debug\MadLibs.exe
+D:\ElevenFiftyProjects\DotNetProjects\Challenges\MadLibs\bin\Debug\MadLibs.pdb
+D:\ElevenFiftyProjects\DotNetProjects\Challenges\MadLibs\obj\Debug\MadLibs.csprojAssemblyReference.cache
+D:\ElevenFiftyProjects\DotNetProjects\Challenges\MadLibs\obj\Debug\MadLibs.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\DotNetProjects\Challenges\MadLibs\obj\Debug\MadLibs.exe
+D:\ElevenFiftyProjects\DotNetProjects\Challenges\MadLibs\obj\Debug\MadLibs.pdb
